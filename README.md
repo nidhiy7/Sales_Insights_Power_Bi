@@ -33,6 +33,9 @@ The dashboard shows :
 ![Sales_Insights](https://user-images.githubusercontent.com/80893000/210171617-1639c28c-4a6f-4e99-89f4-914888487baa.jpg)
 ![Sales_Insights](https://user-images.githubusercontent.com/80893000/210171617-1639c28c-4a6f-4e99-89f4-914888487baa.jpg)
 
+![Proft_analysis](https://user-images.githubusercontent.com/80893000/210171747-85a7d441-7b1d-44c0-b0df-c51807fe95f6.jpg)
+
+
 
 
 
