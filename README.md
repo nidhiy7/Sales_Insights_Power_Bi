@@ -30,8 +30,8 @@ The dashboard shows :
 <li>Top 5 Products</li>
 </ul>
 
-![Sales_Insights](https://user-images.githubusercontent.com/80893000/210171617-1639c28c-4a6f-4e99-89f4-914888487baa.jpg)
-![Sales_Insights](https://user-images.githubusercontent.com/80893000/210171617-1639c28c-4a6f-4e99-89f4-914888487baa.jpg)
+![sales_insight](https://user-images.githubusercontent.com/80893000/210171832-c1bab719-940d-4028-b46d-8544412c0d0e.jpg)
+
 
 ![Proft_analysis](https://user-images.githubusercontent.com/80893000/210171747-85a7d441-7b1d-44c0-b0df-c51807fe95f6.jpg)
 
