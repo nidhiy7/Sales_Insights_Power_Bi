@@ -47,6 +47,22 @@ The dashboard shows :
 
 ![Proft_analysis](https://user-images.githubusercontent.com/80893000/210171747-85a7d441-7b1d-44c0-b0df-c51807fe95f6.jpg)
 
+# Performance Analysis Dashboard
+
+The dashboard shows :
+<ul style="list-style-type:circle;">
+<li>Company sales information such as Revenue, Sales Quantity ,Total Margin </li>
+<li>Revenue Contribution % by Market </li>
+<li>Profit % by Market</li>
+<li>Revenue Trend (Performance Analysis) </li>
+<li>Performance Based on Profit Margin</li>
+</ul>
+
+
+
+
+
+
 
 
 
