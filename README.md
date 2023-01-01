@@ -30,8 +30,8 @@ The dashboard shows :
 <li>Top 5 Products</li>
 </ul>
 
-Create a simple and informative dashboard about the company sales.
-![](https://github.com/aman-thapa/Sales-Insights-bi/blob/main/Images/Dashboard%20Image.JPG)
+![Sales_Insights](https://user-images.githubusercontent.com/80893000/210171617-1639c28c-4a6f-4e99-89f4-914888487baa.jpg)
+
 
 
 
