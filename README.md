@@ -18,7 +18,7 @@ To Build a Power BI dashboard that can give real time sales insights,Profit Anal
 	<li>Project is ready and live</li>
 </ul>
 
-# Sales Insight DasHboard
+# Sales Insight Dashboard
 
 The dashboard shows :
 <ul style="list-style-type:circle;">
@@ -31,6 +31,18 @@ The dashboard shows :
 </ul>
 
 ![sales_insight](https://user-images.githubusercontent.com/80893000/210171832-c1bab719-940d-4028-b46d-8544412c0d0e.jpg)
+
+# Profit Analysis Dashboard
+
+The dashboard shows :
+<ul style="list-style-type:circle;">
+<li>Company sales information such as Revenue, Sales Quantity ,Total Margin </li>
+<li>Revenue Contribution % by Market </li>
+<li>Profit Contribution % by Market  </li>
+<li>Profit % by Market</li>
+<li>Revenue Trend</li>
+<li> Profit Margin Ananlysis</li>
+</ul>
 
 
 ![Proft_analysis](https://user-images.githubusercontent.com/80893000/210171747-85a7d441-7b1d-44c0-b0df-c51807fe95f6.jpg)
