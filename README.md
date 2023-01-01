@@ -58,26 +58,12 @@ The dashboard shows :
 <li>Performance Based on Profit Margin</li>
 </ul>
 
+![Performance_Analysis](https://user-images.githubusercontent.com/80893000/210172424-1b36e036-302d-465f-9c11-bdc13f345c28.jpg)
+
+# Tools used:
+<ul style="list-style-type:circle;">
+<li>Microsoft Power BI Desktop</li>
+<li>MYSQL Workbench</li>
+</ul>
 
 
-
-
-
-
-
-
-
-
-
-
-Tools used:
-
-Microsoft Power BI Desktop
-MYSQL Workbench
-Microsoft Power BI Web
-Skills:
-
-Data Cleansing
-DAX language
-SQL Query
-Business Intelligence
